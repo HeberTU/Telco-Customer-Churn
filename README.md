@@ -19,6 +19,8 @@ Is there some kind of client more likely to churn?
 
 ## Results
 
+We strongly recommend reading the [medium post](https://medium.com/@heber.trj.urt/how-to-use-data-to-retain-more-customers-72e8d2c86c11) for a more business-oriented version. 
+
 In this section, we will show some of the key findings:
 
 1. Customer who has recently signup for the Fiber Optics service have the highest churn probability
