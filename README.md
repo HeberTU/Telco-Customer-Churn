@@ -13,13 +13,13 @@ The aim of this study is to analyze relevant customer data in order to develop f
 
 Concretely, we'd like to answer the following questions:
 
-Is the percentage of churn the same across all services?
-Is there a way to improve the retention ratio within a particular service?
-Is there some kind of client more likely to churn?
+1. Is the percentage of churn the same across all services?
+2. Is there a way to improve the retention ratio within a particular service?
+3. Is there some kind of client more likely to churn?
 
 ## Results
 
-We strongly recommend reading the [medium post](https://medium.com/@heber.trj.urt/how-to-use-data-to-retain-more-customers-72e8d2c86c11) for a more business-oriented version. 
+We strongly recommend reading the [medium post](https://medium.com/@heber.trj.urt/how-to-use-data-to-retain-more-customers-72e8d2c86c11) for a more business-oriented version.
 
 In this section, we will show some of the key findings:
 
