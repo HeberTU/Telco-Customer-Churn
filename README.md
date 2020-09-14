@@ -17,6 +17,22 @@ Is the percentage of churn the same across all services?
 Is there a way to improve the retention ratio within a particular service?
 Is there some kind of client more likely to churn?
 
+## Results
+
+In this section, we will show some of the key findings:
+
+1. Customer who has recently signup for the Fiber Optics service have the highest churn probability
+
+![image](https://user-images.githubusercontent.com/28582065/93122124-403e3e80-f6c6-11ea-9f6e-447f8f11ddb2.png)
+
+2. Service add-ons such as Streaming Entertainment or Online Security are helpful resources to retain unhappy Fiber Optic customers.
+
+![image](https://user-images.githubusercontent.com/28582065/93122372-a4610280-f6c6-11ea-9d91-a53f8262fc33.png)
+
+3. There are some socio-demographic characteristics that customers with the lowest churn probability share in common.
+
+![target_pop](https://user-images.githubusercontent.com/28582065/93122710-4b459e80-f6c7-11ea-8cbf-6373490d478f.png)
+
 ## Installation
 
 We have used python 3.8 for this project, and a detailed list of packages and their version is available within conda_environment.txt file.
@@ -40,19 +56,3 @@ For this analysis, we'll be exploring the Telco Customer Churn DataSet, where ea
 * Demographic info about customers, e.g. gender, age range, and if they have partners and dependents
 
 * Services that each customer has signed up for e.g. phone, multiple lines, etc.
-
-## Results
-
-In this section, we will show some of the key findings:
-
-1. Customer who has recently signup for the Fiber Optics service have the highest churn probability
-
-![image](https://user-images.githubusercontent.com/28582065/93122124-403e3e80-f6c6-11ea-9f6e-447f8f11ddb2.png)
-
-2. Service add-ons such as Streaming Entertainment or Online Security are helpful resources to retain unhappy Fiber Optic customers.
-
-![image](https://user-images.githubusercontent.com/28582065/93122372-a4610280-f6c6-11ea-9d91-a53f8262fc33.png)
-
-3. There are some socio-demographic characteristics that customers with the lowest churn probability share in common.
-
-![target_pop](https://user-images.githubusercontent.com/28582065/93122710-4b459e80-f6c7-11ea-8cbf-6373490d478f.png)
